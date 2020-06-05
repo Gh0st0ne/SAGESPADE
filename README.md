@@ -1,6 +1,7 @@
 # SAGESPADE
 A fantastic macro structure that can be obfuscated easily 
-per usage to ensure AV bypass. 
+per usage to ensure AV bypass. Works well against Windows 
+systems, as well as email filtration checks. 
 
 # Usage
 Open up "sagespade.vbs" and add your base64 encoded payload
